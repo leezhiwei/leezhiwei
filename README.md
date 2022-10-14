@@ -7,6 +7,7 @@ So far I am only fluent in one language, that is **Python**. But am trying to le
 4. C#
 5. Java
 6. Perl
+7. Rust
 # Upcoming projects
 Here are some of my projects and upcoming concepts.
 1. Tinkering with C and maybe packet capture, then put it into TensorFlow
