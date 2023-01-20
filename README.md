@@ -1,6 +1,6 @@
 Hello all, my name is Zhi Wei. Currently I am a student at Ngee Ann Polytechnic. 
 # Languages
-So far I am only fluent in one language, that is **Python**. But am trying to learn these few languages below.
+So far I am only fluent in one language, that is **Python** and **C#**. But am trying to learn these few languages below.
 1. Python
 2. C
 3. C++
@@ -10,7 +10,7 @@ So far I am only fluent in one language, that is **Python**. But am trying to le
 7. Rust
 # Upcoming projects
 Here are some of my projects and upcoming concepts.
-1. Tinkering with C and maybe packet capture, then put it into TensorFlow
+1. Tinkering with C and maybe packet capture, then put it into TensorFlow (a bit tough)
 2. My idea of a SmartCube, powered by an ESP32 that speaks and (hopefully) has voice recognition.
 # My SVG of my commits, ooh snake.
 Using GitHub workflows, [Cool dude from here](https://github.com/Platane/snk)
